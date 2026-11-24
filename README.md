@@ -55,6 +55,10 @@ I work at the intersection of power electronics, electrochemical energy storage,
 - NSFC General Program — principal investigator
 - 10+ provincial- and enterprise-funded projects — principal investigator
 
+## Teaching
+
+- **Interactive DSP demos** — nine chapter demos and eleven toys for the graduate course *Digital Signal Processing: Theory and Applications*. Every demo is a self-contained HTML page that runs offline: <https://lovejump.github.io/dsp-interactive/>
+
 ## Professional Service
 
 - Senior Member, Committee on Artificial Intelligence and Electrical Applications, China Electrotechnical Society
